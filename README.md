@@ -1,4 +1,4 @@
-# Biometric-Fingerprint-for-School-Attendance-System
+# Biometric-Fingerprint-for-School-Attendance-System (MY FYP PROJECT) 
 An automated attendance system that uses biometric fingerprint recognition to verify student identity and record attendance instantly.
 
 
